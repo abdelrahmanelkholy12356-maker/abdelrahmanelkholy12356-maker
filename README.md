@@ -1,21 +1,20 @@
-<h1 align="center"> Hi there, I'm <a href="https://your-portfolio-link.com">Abdelrahman Osama</a> 👋</h1>
+<h1 align="center"> Hi there, I'm <a href="#">Abdelrahman Osama</a> 👋</h1>
 
 <p align="center">
-  <a href="https://your-portfolio-link.com">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/your-link">LinkedIn</a> • 
-  <a href="https://twitter.com/your-twitter">Twitter</a> •
-  <a href="https://github.com/Abdelrahman-Osama">GitHub</a> •
-  <a href="mailto:your-email@gmail.com">Contact Me</a> 
+  <a href="https://github.com/abdelrahmanelkholy12356-maker"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.instagram.com/abdelrahamanelkholy22?igsh=emJ5bWg3eHJ0bWZo"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.facebook.com/share/1AxAgmDH1z/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="mailto:abdelrahmanelkholy12356@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 👨🏻‍💻 **About Me** <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="350px" align="right">  
-✨ Frontend & Backend Web Developer  
-🌱 Currently learning: **React.js | Node.js | Laravel**  
-⚡ Check out my ✨ [Portfolio](https://your-portfolio-link.com)  
-📫 Reach me at: **your-email@gmail.com**  
-💬 Ask me about: **Web Development (HTML, CSS, JS, PHP, MySQL)**  
+
+✨ Web Developer (Frontend & Backend)  
+🌱 Currently learning **React.js | Node.js | Laravel**  
+📫 Reach me at: **abdelrahmanelkholy12356@gmail.com**  
+💬 Ask me about: **Web Development, JavaScript, PHP, MySQL**  
 
 ---
 
@@ -41,23 +40,28 @@
 ---
 
 ## 📚 Recent Projects
-- ✨ [Portfolio Website](https://github.com/your-username/portfolio)  
-- ✨ [E-commerce Store (PHP/MySQL)](https://github.com/your-username/ecommerce-store)  
-- ✨ [Blog CMS (Laravel)](https://github.com/your-username/blog-cms)  
-- ✨ [Chat App (Node.js & Socket.io)](https://github.com/your-username/chat-app)  
+- ✨ [Portfolio Website](https://github.com/abdelrahmanelkholy12356-maker/portfolio)  
+- ✨ [E-commerce Store (PHP/MySQL)](https://github.com/abdelrahmanelkholy12356-maker/ecommerce-store)  
+- ✨ [Blog CMS (Laravel)](https://github.com/abdelrahmanelkholy12356-maker/blog-cms)  
+- ✨ [Chat App (Node.js & Socket.io)](https://github.com/abdelrahmanelkholy12356-maker/chat-app)  
 
 ---
 
 ## ⚙️ GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdelrahmanelkholy12356-maker&show_icons=true&theme=radical" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahmanelkholy12356-maker&layout=compact&theme=radical" height="180em"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abdelrahmanelkholy12356-maker&theme=radical&no-frame=false&no-bg=true&margin-w=15" />
 </p>
 
 ---
 
 <p align="center">
-🚀 Do you want to collaborate? Reach out to me at <a href="mailto:your-email@gmail.com">your-email@gmail.com</a>
+🚀 Want to collaborate? Reach out to me at <a href="mailto:abdelrahmanelkholy12356@gmail.com">abdelrahmanelkholy12356@gmail.com</a>
 </p>
-
-<b> Show some ❤️ by starring some of the repositories!.</p> </div>
