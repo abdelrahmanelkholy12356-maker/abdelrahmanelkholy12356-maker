@@ -1,7 +1,8 @@
-#### Hey 👋, I'm Abdelrahman Osama Elkhouly!
+## Hey 👋, I'm Abdelrahman Osama Elkhouly!
 
 <a href='https://www.linkedin.com/in/abdelrahman-elkholy-3803a32a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <a href='https://www.instagram.com/abdelrahamanelkholy22?igsh=emJ5bWg3eHJ0bWZo'><img align='left' alt="instagram" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/social/square/instagram/instagram.svg" height='18px'/></a>
+<a href='[**ADD YOUR FULL FACEBOOK LINK HERE**]'><img align='left' alt="facebook" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" height='18px'/></a>
 <a href='[**Your Personal Portfolio/Website Link**]'><img alt="website" src="https://img.shields.io/badge/Portfolio-blue?style=flat&logo=dribbble&logoColor=white" height='18px'/></a>
 
 I am a dedicated **Frontend Web Developer** specializing in building **responsive** and **dynamic** user interfaces using modern technologies. My focus is on transforming complex UI/UX designs into clean, functional, and efficient code, primarily using **React.js** and utility-first CSS frameworks like **Tailwind CSS**.
@@ -23,6 +24,12 @@ I am a dedicated **Frontend Web Developer** specializing in building **responsiv
 <br>
 
 ---
+### 🤝 Let's Collaborate!
+
+for **Freelance Work** or professional inquiries, please reach out to me via: 
+[email](mailto:abdelrahmanelkholy12356@gmail.com) 📧
+
+---
 
 ### 🔨 Languages and Tools (Frontend Stack):
 
@@ -39,11 +46,23 @@ This is my core tech stack for crafting web experiences:
 
 ---
 
-### 📊 Github Stats
-<a href='https://github.com/abdelrahman-elkholy/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+📊 **My Development Activity (WakaTime):**
+*This section tracks the time I spend coding across different languages.*
+```txt
+// ⚠️ Please replace this dummy data with your actual WakaTime statistics.
+// JavaScript   15 hrs 45 mins   ███████████████░░░░░░░░░░   70.00 %
+// React        05 hrs 10 mins   ███████▒░░░░░░░░░░░░░░░░   23.00 %
+// HTML         01 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░░░░   05.00 %
+// CSS          00 hrs 45 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+☕ Support My Work
+
+if you appreciate my efforts and projects, maybe consider buying me a coffee/tea! 🥺👉👈
+
+<a href="https://www.buymeacoffee.com/[Your BuyMeACoffee ID]" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+📈 My GitHub Activity & Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=[Your_GitHub_Username]&show_icons=true&theme=gotham" alt="Abdelrahman Elkhouly GitHub Stats" /> </p> <p align="center"> <img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3D[Your_GitHub_Username]&theme=gotham&hide_border=false" alt="Abdelrahman Elkhouly Streak" /> </p>
 
 </a>
 <a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
