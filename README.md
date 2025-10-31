@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Abdelrahaman Osama Elkholy!
-<a href='https://www.linkedin.com/in/abdelrahman-elkholy-3803a32a4/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://www.facebook.com/share/1JQt9QQq9d/'><img align='left' alt="facebook" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
-<a href='https://www.instagram.com/abdelrahamanelkholy22?igsh=emJ5bWg3eHJ0bWZo'><img alt="instagram" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
+<a href='https://www.linkedin.com/in/abdelrahman-elkholy-3803a32a4/' target="_blank"><img align='left' alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C" height='18px'/></a>
+<a href='https://www.facebook.com/share/1JQt9QQq9d/' target="_blank"><img align='left' alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&color=071A2C" height='18px'/></a>
+<a href='https://www.instagram.com/abdelrahamanelkholy22?igsh=emJ5bWg3eHJ0bWZo' target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C" height='18px'/></a>
 
 
 I am a dedicated **Front-end Developer** 💻 with a passion for building interactive, fast, and user-friendly web interfaces. I specialize in transforming complex designs into high-quality, performance-optimized code, focusing on **React.js** and modern web standards. I love exploring new technologies and leveraging them to build cool stuffs 🛠️.
@@ -26,12 +26,12 @@ I am a dedicated **Front-end Developer** 💻 with a passion for building intera
 
 ### 🔨 Languages and Tools (Front-end Focused):
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img align="left" alt="HTML5" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html5/html5.svg"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img align="left" alt="CSS3" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css3/css3.svg"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
-<a href="https://getbootstrap.com" target="_blank"><img align="left" alt="Bootstrap" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/bootstrap/bootstrap.svg"></a>
-<a href="https://tailwindcss.com/" target="_blank"><img align="left" alt="Tailwind CSS" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tailwindcss/tailwindcss.svg"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img align="left" alt="HTML5" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img align="left" alt="CSS3" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </a>
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
+<a href="https://getbootstrap.com" target="_blank"><img align="left" alt="Bootstrap" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"></a>
+<a href="https://tailwindcss.com/" target="_blank"><img align="left" alt="Tailwind CSS" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 
@@ -39,7 +39,7 @@ I am a dedicated **Front-end Developer** 💻 with a passion for building intera
 
 
 ### 📊 Github Stats
-<a href='https://github.com/abdelrahmanelkholy12356-maker/github-stats-transparent'>
+<a href='https://github.com/abdelrahmanelkholy12356-maker/abdelrahmanelkholy12356-maker'>
   
 ![Stats Overview](https://github-readme-stats.vercel.app/api?username=abdelrahmanelkholy12356-maker&show_icons=true&theme=tokyonight&line_height=27&text_color=FFFFFF&hide_border=true&count_private=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahmanelkholy12356-maker&layout=compact&langs_count=6&theme=tokyonight&hide_border=true)
@@ -49,8 +49,53 @@ I am a dedicated **Front-end Developer** 💻 with a passion for building intera
 <br>
 
 ### 🛠️ My Projects
-<a href="[Link to Project 1]" target="_blank"> <img alt="Project 1 Name" src="./projects/artistify.svg" height="68" align="left"> </a>
-<a href="[Link to Project 2]" target="_blank"> <img alt="Project 2 Name" src="./projects/sheetsdatabase.svg" height="68" align="left"> </a>
-<a href="[Link to Project 3]" target="_blank"> <img alt="Project 3 Name" src="./projects/readmeicons.svg" height="68" align="left"> </a>
+<table width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <a href="[Link to Project 1 live demo or repo]">
+        <img src="https://github.com/abdelrahmanelkholy12356-maker/abdelrahmanelkholy12356-maker/blob/main/projects-screenshots/image-2.png" alt="Project 1: El-Kholy World Homepage" width="100%" />
+        <br />
+        <sub><b>El-Kholy World Homepage</b></sub>
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <a href="[Link to Project 2 live demo or repo]">
+        <img src="https://github.com/abdelrahmanelkholy12356-maker/abdelrahmanelkholy12356-maker/blob/main/projects-screenshots/image-3.png" alt="Project 2: Dynamic Web Page Elements" width="100%" />
+        <br />
+        <sub><b>Dynamic Web Page Elements</b></sub>
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <a href="[Link to Project 3 live demo or repo]">
+        <img src="https://github.com/abdelrahmanelkholy12356-maker/abdelrahmanelkholy12356-maker/blob/main/projects-screenshots/image-4.png" alt="Project 3: Creative Agency Template" width="100%" />
+        <br />
+        <sub><b>Creative Agency Template</b></sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center">
+      <a href="[Link to Project 4 live demo or repo]">
+        <img src="https://github.com/abdelrahmanelkholy12356-maker/abdelrahmanelkholy12356-maker/blob/main/projects-screenshots/image-5.png" alt="Project 4: Kasper Template" width="100%" />
+        <br />
+        <sub><b>Kasper Template</b></sub>
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <a href="[Link to Project 5 live demo or repo]">
+        <img src="https://github.com/abdelrahmanelkholy12356-maker/abdelrahmanelkholy12356-maker/blob/main/projects-screenshots/image-6.png" alt="Project 5: LUGX Gaming Site" width="100%" />
+        <br />
+        <sub><b>LUGX Gaming Site</b></sub>
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <a href="[Link to Project 6 live demo or repo]">
+        <img src="https://github.com/abdelrahmanelkholy12356-maker/abdelrahmanelkholy12356-maker/blob/main/projects-screenshots/image-1.png" alt="Project 6: Burger Illustration" width="100%" />
+        <br />
+        <sub><b>Burger Illustration (Placeholder)</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
   </a>
 </div>
