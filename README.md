@@ -76,7 +76,7 @@ I am a dedicated **Front-end Developer** 💻 with a passion for building intera
   <tr>
     <td width="33%" align="center">
       <a href="[Link to Project 4 live demo or repo]">
-        <img src="https://github.com/abdelrahmanelkholy12356-maker/abdelrahmanelkholy12356-maker/blob/main/projects-screenshots/image-5.png" alt="Project 4: Kasper Template" width="100%" />
+        <img src="./projects-screenshots/project_4" alt="Project 4: Kasper Template" width="100%" />
         <br />
         <sub><b>Kasper Template</b></sub>
       </a>
